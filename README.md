@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wael-Yousry
 - 👀 I’m interested in Bim Development
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Electrical ProjectS
+- 💞️ I’m looking to collaborate on Electrical Projects
 - 📫 How to reach me WAEL55527@hotmail.com
 
 
